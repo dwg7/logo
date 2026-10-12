@@ -1,0 +1,6 @@
+src/dist/
+src/measure.html
+src/measure.json
+src/_*
+.venv/
+__pycache__/
